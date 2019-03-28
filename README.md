@@ -1,5 +1,5 @@
 # HelloWorld
 
 <?php
-	echo "oi";
+	echo "HelloWorld";
 ?>
